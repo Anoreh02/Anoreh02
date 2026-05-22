@@ -8,16 +8,6 @@ Computer Science Student • Mobile App Developer • AI/ML Enthusiast
 Passionate about building mobile applications, AI-powered systems, and solving real-world problems through technology.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/cyrehbayson/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Cyreh%20Bayson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:bayson.cyreh02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me

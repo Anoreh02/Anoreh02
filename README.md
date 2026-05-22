@@ -1,69 +1,123 @@
-<table align="center">
-  <tr>
-    <td valign="top" width="50%" style="padding-left: 10px; padding-right: 0;">
-      <h4>Programming Languages 📚</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <a href="https://www.cprogramming.com/" target="_blank">
-          <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-        </a>
-        <a href="https://www.w3.org/html/" target="_blank">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        </a>
-        <a href="https://www.w3schools.com/css/" target="_blank">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-        </a>
-        <a href="https://www.java.com" target="_blank">
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        </a>
-        <a href="https://www.python.org" target="_blank">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        </a>
-      </div>
-      <h4 style="margin-top: 20px;">Utilities and Tools 🔧</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <a href="https://www.mongodb.com/" target="_blank">
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-        </a>
-        <a href="https://git-scm.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        </a>
-        <a href="https://code.visualstudio.com/" target="_blank">
-          <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-        </a>
-      </div>
-    </td>
-    <td valign="top" width="50%" style="padding-left: 20px; padding-right: 0;">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoreh02&theme=github_dark&layout=donut&hide_border=true&langs_count=8" alt="Most Used Languages" style="border-radius: 10px; width: 90%; max-width: 300px;" />
-      </div>
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi 👋, I'm Cyreh Bayson</h1>
+<h3 align="center">
+Computer Science Student • Mobile App Developer • AI/ML Enthusiast
+</h3>
 
+<p align="center">
+Passionate about building mobile applications, AI-powered systems, and solving real-world problems through technology.
+</p>
 
 ---
 
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anoreh02&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <br>
+- 🎓 Computer Science Student
+- 📱 Developing mobile applications using React Native / Expo
+- 🤖 Interested in AI, Machine Learning, and Computer Vision
+- 🧠 Built projects using YOLOv8, PyTorch, MongoDB, and Supabase
+- 🌱 Currently improving my backend and full-stack development skills
+
+---
+
+## 🛠️ Tech Stack
+
+### 📚 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
+### ⚙️ Frameworks & Technologies
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge"/>
+</p>
+
+### 🔧 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🍽️ BiteWise
+A mobile recipe application that recommends meals based on available ingredients.
+
+**Features:**
+- Ingredient-based recipe suggestions
+- User-created recipes
+- Community recipe feed
+- Mobile-first UI
+
+**Tech Used:** React Native, Expo, MongoDB, Supabase
+
+---
+
+### 👟 Shoe Detection System
+An AI-powered shoe detection project using Computer Vision and Machine Learning.
+
+**Features:**
+- Real-time object detection
+- YOLOv8 implementation
+- Detection logging system
+- Image dataset training
+
+**Tech Used:** Python, YOLOv8, PyTorch
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=anoreh02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" 
+    height="180"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoreh02&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" 
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=anoreh02&theme=tokyonight&hide_border=true&background=00000000" 
+  />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://fb.com/cyreh.bayson.96" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+  
   <a href="https://instagram.com/cy.anoreh" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:bayson.cyreh02@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  
+  <a href="mailto:bayson.cyreh02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-
 ---
+
+<p align="center">
+  <i>"Always learning, always building."</i>
+</p>

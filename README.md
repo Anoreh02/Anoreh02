@@ -12,7 +12,7 @@ Passionate about building mobile applications, AI-powered systems, and solving r
   <a href="https://www.linkedin.com/in/cyrehbayson/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Cyreh%20Bayson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+
   <a href="mailto:bayson.cyreh02@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -34,6 +34,7 @@ Passionate about building mobile applications, AI-powered systems, and solving r
 ## 🛠️ Tech Stack
 
 ### 📚 Programming Languages
+
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -44,6 +45,7 @@ Passionate about building mobile applications, AI-powered systems, and solving r
 </p>
 
 ### ⚙️ Frameworks & Technologies
+
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
@@ -55,6 +57,7 @@ Passionate about building mobile applications, AI-powered systems, and solving r
 </p>
 
 ### 🔧 Tools
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -66,19 +69,13 @@ Passionate about building mobile applications, AI-powered systems, and solving r
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=anoreh02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" 
+    src="https://github-readme-stats.vercel.app/api?username=anoreh02&show_icons=true&theme=tokyonight&hide_border=true" 
     height="180"
   />
   
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoreh02&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoreh02&layout=compact&theme=tokyonight&hide_border=true" 
     height="180"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=anoreh02&theme=tokyonight&hide_border=true&background=00000000" 
   />
 </p>
 

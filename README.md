@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cyreh Bayson</h1>
+
 <h3 align="center">
 Computer Science Student • Mobile App Developer • AI/ML Enthusiast
 </h3>
@@ -7,15 +8,26 @@ Computer Science Student • Mobile App Developer • AI/ML Enthusiast
 Passionate about building mobile applications, AI-powered systems, and solving real-world problems through technology.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/cyrehbayson/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Cyreh%20Bayson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:bayson.cyreh02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
 
 - 🎓 Computer Science Student
-- 📱 Developing mobile applications using React Native / Expo
+- 📱 Developing cross-platform mobile apps using React Native / Expo
 - 🤖 Interested in AI, Machine Learning, and Computer Vision
 - 🧠 Built projects using YOLOv8, PyTorch, MongoDB, and Supabase
 - 🌱 Currently improving my backend and full-stack development skills
+- ⚡ Fast learner with strong problem-solving and adaptability skills
 
 ---
 
@@ -75,6 +87,10 @@ Passionate about building mobile applications, AI-powered systems, and solving r
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/cyrehbayson/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
   <a href="https://fb.com/cyreh.bayson.96" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>

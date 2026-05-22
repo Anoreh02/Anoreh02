@@ -50,34 +50,6 @@ Passionate about building mobile applications, AI-powered systems, and solving r
 
 ---
 
-## 📌 Featured Projects
-
-### 🍽️ BiteWise
-A mobile recipe application that recommends meals based on available ingredients.
-
-**Features:**
-- Ingredient-based recipe suggestions
-- User-created recipes
-- Community recipe feed
-- Mobile-first UI
-
-**Tech Used:** React Native, Expo, MongoDB, Supabase
-
----
-
-### 👟 Shoe Detection System
-An AI-powered shoe detection project using Computer Vision and Machine Learning.
-
-**Features:**
-- Real-time object detection
-- YOLOv8 implementation
-- Detection logging system
-- Image dataset training
-
-**Tech Used:** Python, YOLOv8, PyTorch
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">

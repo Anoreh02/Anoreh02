@@ -69,13 +69,13 @@ Passionate about building mobile applications, AI-powered systems, and solving r
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=anoreh02&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anoreh02&theme=tokyonight" 
   />
-  
+</p>
+
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoreh02&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anoreh02&theme=tokyonight" 
   />
 </p>
 

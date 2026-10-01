@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cyreh Bayson</h1>
 
 <h3 align="center">
-Computer Science Student • Mobile App Developer • AI/ML Enthusiast
+Software Developer • Mobile App Developer • AI/ML Enthusiast
 </h3>
 
 <p align="center">
-Passionate about building mobile applications, AI-powered systems, and solving real-world problems through technology.
+Passionate about building mobile applications, Full-stack Systems, AI-powered systems, and solving real-world problems through technology.
 </p>
 
 ---
